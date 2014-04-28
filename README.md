@@ -1,4 +1,4 @@
-populov.github.io
+Serge Populov
 =================
 
-Projects list
+Projects. Also see http://serge.populov.com/en/projects
