@@ -1,3 +1,19 @@
 .projects-list, .projects-list td, .projects-list table {
-    border: 0px dashed red;
+    border: 0;
+}
+
+.project-description {
+    vertical-align:middle;
+    text-align:left;
+    width: 380px;
+}
+
+.project-icon {
+    vertical-align:middle;
+    padding:5pt;
+    width:64px
+}
+
+.project-spacer {
+    padding:10px;
 }
